@@ -66,7 +66,7 @@ img {
     margin-top: 40px;
 }
 
-@media only screen and (max-width: 1284px) {
+@media only screen and (max-width: 900px) {
     .container {
         position: relative;
         width: 390px;
